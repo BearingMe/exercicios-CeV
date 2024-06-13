@@ -1,7 +1,7 @@
 """
 Desafio 006
 
-Problema: Crie um algoritmo que leia um número e mostre o seu drobro,
+Problema: Crie um algoritmo que leia um número e mostre o seu dobro,
           triplo e raiz quadrada.
 
 Resolução do problema:
